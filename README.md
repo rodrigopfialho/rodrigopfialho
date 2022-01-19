@@ -1,4 +1,4 @@
-### Olá! eu sou o Rodrigo 👋
+### Olá! Eu sou o Rodrigo 👋
 
 
 <!-- - 🔭 I’m currently working on ...
