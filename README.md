@@ -1,4 +1,4 @@
-### Me chamo Rodrigo, tenho 29 anos moro em Fortaleza, Brasil, sou formado em Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvimento front-end, inovação e possibilidades.
+### Me chamo Rodrigo, tenho 31 anos moro em Fortaleza, Brasil, sou formado em Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvimento front-end, inovação e possibilidades.
 
 
 <!-- - 🔭 I’m currently working on ...
